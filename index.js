@@ -9,4 +9,4 @@ let num4 = 5
 mod = num3 / num4
 let max
 const mySet = new Set([10, 5, 20, 2])
-max = Math.max(...mySet)
+max = Math.max(...mySet) //yes done 
